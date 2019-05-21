@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sodio" size="7.000000 10.557377" />
+    <ImageTarget name="oxigeno" size="7.000000 10.557377" />
+    <ImageTarget name="nitrogeno" size="7.000000 10.557377" />
+    <ImageTarget name="hidrogeno" size="7.000000 10.557377" />
+    <ImageTarget name="cloro" size="7.000000 10.557377" />
+    <ImageTarget name="carbono" size="7.000000 10.557377" />
+    <ImageTarget name="as_picas" size="7.000000 9.706168" />
+    <ImageTarget name="as_oros" size="7.000000 10.412276" />
+    <ImageTarget name="joker" size="5.000000 6.943582" />
+  </Tracking>
+</QCARConfig>
